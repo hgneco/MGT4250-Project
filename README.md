@@ -3,12 +3,12 @@ Author: Hannah Gneco, hgneco@elon.edu
 
 ## Project Description
 
-[Link to Tableau Public Visualization](url)
+[Link to Tableau Public Visualization](https://public.tableau.com/views/MGT4250CourseProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Questions of interest
-1. Q1
-2. Q2
-3. Q3
+1. Which states have received the highest median ratings?
+2. Is there a difference in purchases between gender and/or age?
+3. Which products are purchased more often each month?
 
 ### Importance
 This is *especially* **important** because
