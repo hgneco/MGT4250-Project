@@ -45,7 +45,7 @@ Code:
 from openai import OpenAI
 
 client = OpenAI(
-    api_key = "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",
+    api_key = "apikey",
 )
 
 completion = client.chat.completions.create(
