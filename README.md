@@ -17,6 +17,22 @@ This is *especially* **important** because
 
 ## Data Description
 
+
 ## Interpreting Visualizations
+Visualization 1 - By creating this visualization I have found the locations that have the highest/lowest review ratings in order to improve service.
+High: Wisconsin and Maine with median=4
+Low: West Virginia and New Hampshire with median=3.5
+
+Visualization 2 - This visualization shows us how the average age that purchased each item differs by gender.
+There is no significant difference of the average ages by gender and item purchased. 
+Max = ~7(boots) 
+Min = 0.004(pants)
+
+Visualization 3 - This visualization tells us which items were essentially purchased more per season.
+In the Fall the item that generated the highest purchase total = $3,224 (hats)
+In the Spring the item that generated the highest purchase total = $3,145 (sweaters)
+In the Summer the item that generated the highest purchase total = $3,006 (jewelry)
+In the Winter the item that generated the highest purchase total = $3,105 (shirt)
+
 
 ## Discussion & Summary
