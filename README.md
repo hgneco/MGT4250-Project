@@ -6,7 +6,7 @@ Author: Hannah Gneco, hgneco@elon.edu
 [Link to Tableau Public Visualization](https://public.tableau.com/views/MGT4250CourseProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Questions of interest
-1. Which states have received the highest median ratings?
+1. Which states have received the highest and lowest median ratings?
 2. Is there a difference in purchases between gender and/or age?
 3. Which products are purchased more often each month?
 
